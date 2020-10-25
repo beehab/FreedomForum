@@ -1,0 +1,5 @@
+{
+  "name": "freedom forum",
+  "description": "Driven to spread the word to stop opression anywhere in the world!",
+  "addons": [ "heroku-postgresql" ]
+}
