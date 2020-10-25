@@ -1,0 +1,11 @@
+{
+  "hints": [],
+  "groups": [],
+  "properties": [
+    {
+      "name": "resource.staticResourceLocation",
+      "description": "Description for resource.staticResourceLocation.",
+      "type": "java.lang.String"
+    }
+  ]
+}
