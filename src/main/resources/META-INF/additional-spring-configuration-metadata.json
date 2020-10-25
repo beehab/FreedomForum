@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "resource.staticResourceLocation",
+      "type": "java.lang.String",
+      "description": "Description for resource.staticResourceLocation."
+  }
+] }
